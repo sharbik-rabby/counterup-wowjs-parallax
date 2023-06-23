@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+.tick {
+  font-size: 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.tick-label {
+  font-size: 0.375em;
+  text-align: center;
+}
+
+.tick-group {
+  margin: 0 0.25em;
+  text-align: center;
+}
+.counters {
+  background-color: beige;
+}
+.demo{
+  background-color: aquamarine;
+  font-family: 'Kablammo', cursive;
+  font-size: 30px;
+  font-weight: 700;
+}
+span.counter {
+  display: block;
+  margin: 20px auto;
+  font-size: 64px;
+  font-family: "Pacifico";
+}
+.box{
+  min-height: 600px;
+}
+.parallax-window {
+  min-height: 500px;
+  background: transparent;
+}
+ /* .parallax2 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+} */
+
+.parallax2{
+  height: 400px;
+  background: #16a085;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+
+#particles {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
